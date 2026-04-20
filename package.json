@@ -1,0 +1,15 @@
+{
+  "lastPredictions": [
+    {
+      "period": "12345",
+      "sticker": "🏆 WIN",
+      "prediction": "BIG",
+      "actual": "BIG",
+      "actualNumber": 7,
+      "result": "WIN",
+      "confidence": "85%",
+      "mathDetails": "Last:3 → L1:4(SMALL) L2:5(BIG) → BIG",
+      "time": "14:30:25"
+    }
+  ]
+}
